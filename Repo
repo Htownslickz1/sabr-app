@@ -1,0 +1,4 @@
+/mobile       → Expo (React Native) for iOS, Android, Web
+/backend      → Node.js (Express + Supabase client API)
+/devcontainer/ → Docker & Codespaces setup with Node.js and Supabase CLI
+
